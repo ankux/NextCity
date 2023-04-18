@@ -61,7 +61,7 @@
 }
 
 .background{
-    background: rgb(0, 0, 0, 0.7) url('img/bg.jpg');
+    background: rgb(0, 0, 0, 0.7) url('img/dubai.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
