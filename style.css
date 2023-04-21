@@ -141,6 +141,9 @@
 .btn:hover{
     background-color: rgb(202, 202, 202);
     color: rgb(41, 41, 41);
+    transition-delay: 10ms;
+    transition-duration: 500ms;
+    
 }
 
 .secRight{
